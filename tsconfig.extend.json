@@ -4,6 +4,15 @@
         "paths": {
             "@components/*": [
                 "components/*"
+            ],
+            "@styles/*": [
+                "styles/*"
+            ],
+            "@assets/*": [
+                "assets/*"
+            ],
+            "@typedefs/*": [
+                "types/*"
             ]
         }
     }
